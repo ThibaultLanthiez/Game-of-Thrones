@@ -4,7 +4,7 @@
 
 L'objectif de ce projet est d'étudier la relation entre les personnages du premier tome de Game of Thrones - A Song of Ice and Fire.
 
-Pour cela, on dit que deux personnages sont liés lorsqu'ils sont successivement cités avec moins de 15 mots les séparant. J'ai donc écrit un programme en python permettant de produire automatiquement un fichier csv du nombre de liens entre chaque personnage. 
+Pour cela, on dit que deux personnages sont liés lorsqu'ils sont successivement cités avec moins de 15 mots les séparant. J'ai donc écrit un programme en python permettant de déterminer le nombre de liens entre chacun des personnages du roman. 
 
 # Fichiers
 
